@@ -1,3 +1,3 @@
 # First-GITPROJECT
-Trying out to get to know something
+Trying to know something
 Hello Github...!!
